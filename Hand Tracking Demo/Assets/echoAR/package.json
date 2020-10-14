@@ -1,0 +1,9 @@
+{
+  "name": "xyz.echoar.unity",
+  "displayName": "echoAR",
+  "version": "1.1.0",
+  "unity": "2018.2",
+  "description": "echoAR Unity SDK. By installing you confirm that you agree with our Terms of Use: https://www.echoAR.xyz/terms",
+  "keywords": [ "package", "unity", "echoAR" ],
+  "dependencies": {}
+}
