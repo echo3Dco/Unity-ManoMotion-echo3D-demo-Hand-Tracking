@@ -10,7 +10,7 @@ This Unity demo uses echoAR's 3D model streaming in combination with [ManoMotion
 ## Setup
 * Clone this project and open it in Unity 2020.1.2 (or newer).
 * Open the scene under _Scenes/Main_.
-* Set your echoAR API key in (1) the echoAR prefab uner _Assets/echoAR/_ and (2) the echoAR game object in the hierarchy throguh the inspector.
+* Set your echoAR API key in (1) the echoAR prefab uner _Assets/echoAR/_, (2) the echoAR game object , (3) the Place on Plane script in the AR Session Origin game object in the hierarchy throguh the inspector.
 * Upload the contents of the [models folder](/models/) through the [echoAR console](https://console.echoar.xyz).
 * Upload the metadata in the [metadata folder](/metadata/) for each model in the Data tab of the [echoAR console](https://console.echoar.xyz).
 * Go to your [ManoMoation account](https://www.manomotion.com/my-account/licenses/) and copy your ManoMotion license key (e.g., ABCD-ABCD-ABCD-ABCD) into the ManomationManager gameobject.
