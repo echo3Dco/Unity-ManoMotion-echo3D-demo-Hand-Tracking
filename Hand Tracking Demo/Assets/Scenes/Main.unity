@@ -512,7 +512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   echoAR: {fileID: 1648207827}
-  APIKey: plain-thunder-8568
+  APIKey: <YOUR_API_KEY>
   debugText: {fileID: 739715427}
   maxModels: 7
 --- !u!114 &829147778
@@ -1183,7 +1183,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3838476432118020029, guid: d51db39ed46eb16419119819e79cc835, type: 3}
       propertyPath: _licenseKey
-      value: IUGFS-PYAPQ-EIBEM-CIYYM
+      value: <YOUR_LICENSE _KEY>
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d51db39ed46eb16419119819e79cc835, type: 3}
@@ -1444,7 +1444,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2782816026810004250, guid: e1d4d8772d02a5a47acd9aa621ae8c34, type: 3}
       propertyPath: APIKey
-      value: 
+      value: <YOUR_API_KEY>
       objectReference: {fileID: 0}
     - target: {fileID: 6970338143313821952, guid: e1d4d8772d02a5a47acd9aa621ae8c34, type: 3}
       propertyPath: m_LocalPosition.x
