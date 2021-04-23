@@ -35,5 +35,6 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 
 ## Screenshots
 ![demo](images/demo_video.gif)
+![manomotion](images/manomotion_account.png)
 
 Demo created by [Caleb Biddulph](https://github.com/CDBiddulph/).
