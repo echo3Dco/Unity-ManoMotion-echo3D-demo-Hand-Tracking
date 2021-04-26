@@ -13,8 +13,8 @@ This Unity demo uses echoAR's 3D model streaming in combination with [ManoMotion
 * Set your echoAR API key in (1) the echoAR prefab uner _Assets/echoAR/_, (2) the echoAR game object , (3) the Place on Plane script in the AR Session Origin game object in the hierarchy throguh the inspector.
 * Upload the contents of the [models folder](/models/) through the [echoAR console](https://console.echoar.xyz).
 * Upload the metadata in the [metadata folder](/metadata/) for each model in the Data tab of the [echoAR console](https://console.echoar.xyz).
-* Go to your [ManoMoation account](https://www.manomotion.com/my-account/licenses/) and copy your ManoMotion license key (e.g., ABCD-ABCD-ABCD-ABCD) into the ManomationManager gameobject.
-* Go to your [ManoMoation account](https://www.manomotion.com/my-account/licenses/) and copy your Bundle ID (e.g., com.username.hellomano). In Unity, click _File > Build Settings > Player Settings... > Player > Android_ and set the Bundle ID as under _Identification > Package Name_.
+* Go to your [ManoMotion account](https://www.manomotion.com/my-account/licenses/) and copy your ManoMotion license key (e.g., ABCD-ABCD-ABCD-ABCD) into the ManomationManager gameobject.
+* Go to your [ManoMotion account](https://www.manomotion.com/my-account/licenses/) and copy your Bundle ID (e.g., com.username.hellomano). In Unity, click _File > Build Settings > Player Settings... > Player > Android_ and set the Bundle ID as under _Identification > Package Name_.
 
 You can also add your own models to the echoAR console by searching or adding your own, and they will appear when you cycle through the models. Just make sure that the number of models does not exceed the value you give to the maxModels variable of the Place on Plane script of the AR Session Origin.
 
